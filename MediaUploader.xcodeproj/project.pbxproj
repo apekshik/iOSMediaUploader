@@ -12,6 +12,7 @@
 		89EBC09728A7A61700B335D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 89EBC09628A7A61700B335D3 /* Assets.xcassets */; };
 		89EBC09A28A7A61700B335D3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 89EBC09928A7A61700B335D3 /* Preview Assets.xcassets */; };
 		89EBC0A328A7A67300B335D3 /* PhotoPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89EBC0A228A7A67300B335D3 /* PhotoPicker.swift */; };
+		89EBC0A528A7B14800B335D3 /* PhotoPickerV2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89EBC0A428A7B14800B335D3 /* PhotoPickerV2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		89EBC09628A7A61700B335D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		89EBC09928A7A61700B335D3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		89EBC0A228A7A67300B335D3 /* PhotoPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoPicker.swift; sourceTree = "<group>"; };
+		89EBC0A428A7B14800B335D3 /* PhotoPickerV2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoPickerV2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				89EBC09228A7A61600B335D3 /* MediaUploaderApp.swift */,
 				89EBC09428A7A61600B335D3 /* ContentView.swift */,
 				89EBC0A228A7A67300B335D3 /* PhotoPicker.swift */,
+				89EBC0A428A7B14800B335D3 /* PhotoPickerV2.swift */,
 				89EBC09628A7A61700B335D3 /* Assets.xcassets */,
 				89EBC09828A7A61700B335D3 /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				89EBC09528A7A61600B335D3 /* ContentView.swift in Sources */,
 				89EBC09328A7A61600B335D3 /* MediaUploaderApp.swift in Sources */,
+				89EBC0A528A7B14800B335D3 /* PhotoPickerV2.swift in Sources */,
 				89EBC0A328A7A67300B335D3 /* PhotoPicker.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
